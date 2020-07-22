@@ -1,3 +1,6 @@
+
+Donate me Bitcoin: https://donate.cafe/liuzemei
+
 本文旨在研究比特币量化交易。无意中发现，其实一款简易的行情软件可能5真的只要5分钟...就留下这篇教程，希望让更多的人了解到相关的开发。抛砖引玉~
 > 技术栈： html css js vue elementUI ccxt
 
